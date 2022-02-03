@@ -1,7 +1,7 @@
 
 # React Native Carousel Animation
 
-Nesse projeto utilizo um pouco da lib Animated do React Native.
+Nesse projeto utilizo um pouco da lib Animated do React Native para fazer essas transitions maravilhosas em um carousel.
 
 ## Demonstração
 
