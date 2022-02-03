@@ -13,9 +13,7 @@ Nesse projeto utilizo um pouco da lib Animated do React Native para fazer essas 
 - [@ederjunior07](https://www.github.com/EderJunior07)
 
 
-## Etiquetas
-
-Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
+## Target
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
